@@ -1,0 +1,12 @@
+{
+  "name": "yourorg/wp-webpush-deps",
+  "type": "project",
+  "require": {
+    "minishlink/web-push": "^8"
+  },
+  "config": {
+    "platform": { "php": "8.0.0" },
+    "optimize-autoloader": true,
+    "classmap-authoritative": true
+  }
+}
